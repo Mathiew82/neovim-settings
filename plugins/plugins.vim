@@ -11,4 +11,5 @@ call plug#begin('~/.vim/plugged')
   Plug 'posva/vim-vue'
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
+  Plug 'mhinz/vim-startify'
 call plug#end()
