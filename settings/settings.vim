@@ -11,3 +11,6 @@ set sw=2
 set laststatus=2
 set relativenumber
 set noshowmode
+set background=dark
+
+colorscheme seoul256
