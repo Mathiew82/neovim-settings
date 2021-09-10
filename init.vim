@@ -5,7 +5,7 @@
 " ██║╚██╗██║██╔══╝  ██║   ██║╚██╗ ██╔╝██║██║╚██╔╝██║
 " ██║ ╚████║███████╗╚██████╔╝ ╚████╔╝ ██║██║ ╚═╝ ██║
 " ╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝     ╚═╝
-" ================ neoVIM config ================= "
+" ================= neoVIM config ================== 
 
 source $HOME/.config/nvim/plugins/plugins.vim
 source $HOME/.config/nvim/settings/settings.vim
