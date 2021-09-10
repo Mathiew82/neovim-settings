@@ -2,7 +2,6 @@ call plug#begin('~/.vim/plugged')
   Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'yarn install --frozen-lockfile'}
   Plug 'ianks/vim-tsx'
   Plug 'leafgarland/typescript-vim'
-  Plug 'dikiaap/minialist'
   Plug 'morhetz/gruvbox'
   Plug 'junegunn/seoul256.vim'
   Plug 'preservim/nerdtree'
