@@ -9,6 +9,7 @@
 
 source $HOME/.config/nvim/plugins/plugins.vim
 source $HOME/.config/nvim/settings/settings.vim
+source $HOME/.config/nvim/theme/theme.vim
 source $HOME/.config/nvim/airline/airline.vim
 source $HOME/.config/nvim/commands/commands.vim
 source $HOME/.config/nvim/shortcuts/shortcuts.vim
