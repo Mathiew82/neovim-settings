@@ -31,3 +31,6 @@ set formatoptions-=cro                  " Stop newline continution of comments
 set clipboard=unnamedplus               " Copy paste between vim and everything else
 
 colorscheme seoul256
+
+highlight Normal ctermbg=none
+highlight NonText ctermbg=none

@@ -12,4 +12,5 @@ call plug#begin('~/.vim/plugged')
   Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
   Plug 'junegunn/fzf.vim'
   Plug 'mhinz/vim-startify'
+  Plug 'christoomey/vim-tmux-navigator'
 call plug#end()
