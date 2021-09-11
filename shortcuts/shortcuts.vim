@@ -4,6 +4,7 @@ nmap <Leader>n :NERDTreeFind<CR>
 nmap <Leader>fi :Files<CR>
 
 nmap <Leader>n :NERDTreeFind<CR>
+nmap <Leader>w :w<CR>
 nmap <Leader>q :q<CR>
 
 nmap <Leader>j :tabprevious<CR>
