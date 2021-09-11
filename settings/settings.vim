@@ -20,6 +20,7 @@ set smartindent                         " Makes indenting smart
 set autoindent                          " Good auto indent
 set laststatus=0                        " Always display the status line
 set number                              " Line numbers
+set rnu                                 " Show relative numbers
 set cursorline                          " Enable highlighting of the current line
 set showtabline=2                       " Always show tabs
 set nobackup                            " This is recommended by coc
