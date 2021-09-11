@@ -1,0 +1,80 @@
+
+Para pegar todo el contenido en un archivo
+:set paste
+
+Moverse por vim 'hjkl'
+- w (te coloca el cursor al principio de la palabra siguiente)
+- e (te coloca el cursor al final de la siguiente palabra)
+- b (te coloca el cursor al principio de la anterior palabra)
+- gg (te coloca el cursor al inicio del archivo)
+- shift + g (te coloca el cursor al final del archivo)
+- 12j (te coloca el cursor 12 lineas para abajo desde donde se encuentra el cursor)
+- 12k (te coloca el cursor 12 lineas para arriba desde donde se encuentra el cursor)
+- $ (te coloca el cursor al final de la linea)
+- 0 (te coloca el cursor al inicio de la linea)
+- { (te lleva al principio del parágrafo donde se encuentra el cursor)
+- } (te lleva al final del parágrafo donde se encuentra el cursor)
+
+Insertar texto
+- i (cambia al modo insertar desde la izquierda de la posición del cursor)
+- a (cambia al modo insertar desde la derecha de la posición del cursor)
+- I (cambia al modo insertar desde el principio de la linea en la que se encuentra el cursor)
+- A (cambia al modo insertar desde el final de la linea en la que se encuentra el cursor)
+
+Borrar texto
+- dd (borra toda la linea donde se encuentra el cursor)
+- 2dd (borra 2 lineas, la linea donde se encuentra el cursor y la linea siguiente)
+- c (borra y te cambia al modo insertar)
+- D (borra todo lo que resta de linea desde donde se encuentra el cursor)
+- C (borra todo lo que resta de linea desde donde se encuentra el cursor y cambia al modo insertar)
+- x (borra el caracter en el que se encuentra el cursor)
+- s (borra el caracter en el que se encuentra el cursor y cambia al modo insertar)
+- X (borra el caracter de la izquierda del cursor)
+- S (borra toda la linea y cambia al modo insertar)
+- dw (borra desde donde se encuentra el cursor hasta el inicio de la siguiente palabra)
+- de (borra lo que resta de la palabra donde se encuentra el cursor, hasta el final)
+- db (borra lo que resta de la palabra donde se encuentre el cursor, hasta el principio)
+
+Selección de texto
+- v (se activa la selección desde la posición del cursor)
+- V (selecciona la linea actual y las siguientes dependiendo de la dirección, arriba o abajo)
+
+Ir al inicio o final de una linea
+- 0 (al pulsar el cero te lleva al principio de la linea)
+- $ (al pulsar el dolar te lleva al final de la linea
+
+Deshacer y Rehacer
+- u (para deshacer)
+- control + r (para rehacer)
+
+Copiar y Pegar
+- y (copia el texto seleccionado)
+- yy (copia toda la linea donde se encuentra el cursor)
+- p (pega el texto seleccionado debajo de la linea donde se encuentra el cursor)
+- P (pega el texto seleccionado encima de la linea donde se encuentra el cursor)
+- control + v / desplazarse hacia arriba o hacia abajo / shift + i / escribir lo deseado / esc (esto agrega el contenido en forma de multilinea)
+
+Abrir archivos :e
+Ejemplo = :e nombre-archivo.txt
+NOTA: Si el archivo no existe vim lo creará
+
+NERDTree:
+Para abrir el árbol de archivos hay que pulsar espacio y n (esto es posible gracias a un shortcut)
+Para navegar entre el árbol de archivos y los archivos debe hacerse con el control y la h o la l (los dos al mismo tiempo. Esto es gracias al plugin tmux)
+NOTA IMPORTANTE: Para abrir los archivos hay que hacerlo con la t para poder luego navegar por las pestañas una vez abiertas
+NOTA IMPORTANTE: Para abrir los archivos en pantalla dividida hay que hacerlo con la s
+
+Buscar
+/{term} (al buscar con la barra encontrará las coincidencias en el archivo)
+n (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la siguiente palabra)
+N (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la anterior palabra)
+
+Buscar y reemplazar. Reemplazo múltiple
+:%s/coincidencia/reemplazo/g
+
+Para actualizar el archivo
+:source %
+
+
+
+
