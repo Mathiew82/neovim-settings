@@ -75,6 +75,7 @@ Buscar y reemplazar. Reemplazo múltiple
 Para actualizar el archivo
 :source %
 
-
-
+Fuente con todo tipo de comandos sobre VIM: https://vim.rtorr.com/
+Fuente con distintos temas sobre VIM: https://vimcolorschemes.com/
+Fuente con todo tipo de plugins para VIM: https://vimawesome.com/
 
