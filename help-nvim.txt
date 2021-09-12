@@ -1,6 +1,6 @@
 
 Para pegar todo el contenido en un archivo
-:set paste
+- :set paste
 
 Moverse por vim 'hjkl'
 - w (te coloca el cursor al principio de la palabra siguiente)
@@ -55,27 +55,27 @@ Copiar y Pegar
 - control + v / desplazarse hacia arriba o hacia abajo / shift + i / escribir lo deseado / esc (esto agrega el contenido en forma de multilinea)
 
 Abrir archivos :e
-Ejemplo = :e nombre-archivo.txt
-NOTA: Si el archivo no existe vim lo creará
+- Ejemplo = :e nombre-archivo.txt
+- NOTA: Si el archivo no existe vim lo creará
 
 NERDTree:
-Para abrir el árbol de archivos hay que pulsar espacio y n (esto es posible gracias a un shortcut)
-Para navegar entre el árbol de archivos y los archivos debe hacerse con el control y la h o la l (los dos al mismo tiempo. Esto es gracias al plugin tmux)
-NOTA IMPORTANTE: Para abrir los archivos hay que hacerlo con la t para poder luego navegar por las pestañas una vez abiertas
-NOTA IMPORTANTE: Para abrir los archivos en pantalla dividida hay que hacerlo con la s
+- Para abrir el árbol de archivos hay que pulsar espacio y n (esto es posible gracias a un shortcut)
+- Para navegar entre el árbol de archivos y los archivos debe hacerse con el control y la h o la l (los dos al mismo tiempo. Esto es gracias al plugin tmux)
+- NOTA IMPORTANTE: Para abrir los archivos hay que hacerlo con la t para poder luego navegar por las pestañas una vez abiertas
+- NOTA IMPORTANTE: Para abrir los archivos en pantalla dividida hay que hacerlo con la s
 
 Buscar
-/{term} (al buscar con la barra encontrará las coincidencias en el archivo)
-n (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la siguiente palabra)
-N (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la anterior palabra)
+- /{term} (al buscar con la barra encontrará las coincidencias en el archivo)
+- n (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la siguiente palabra)
+- N (una vez se hace click en el enter después de haber escrito el término de búsqueda, te va llevando a la anterior palabra)
 
 Buscar y reemplazar. Reemplazo múltiple
-:%s/coincidencia/reemplazo/g
+- :%s/coincidencia/reemplazo/g
 
 Para actualizar el archivo
-:source %
+- :source %
 
-Fuente con todo tipo de comandos sobre VIM: https://vim.rtorr.com/
-Fuente con distintos temas sobre VIM: https://vimcolorschemes.com/
-Fuente con todo tipo de plugins para VIM: https://vimawesome.com/
+· Fuente con todo tipo de comandos sobre VIM: https://vim.rtorr.com/
+· Fuente con distintos temas sobre VIM: https://vimcolorschemes.com/
+· Fuente con todo tipo de plugins para VIM: https://vimawesome.com/
 
