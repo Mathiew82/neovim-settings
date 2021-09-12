@@ -58,10 +58,14 @@ Abrir archivos :e
 - Ejemplo = :e nombre-archivo.txt
 - NOTA: Si el archivo no existe vim lo creará
 
-NERDTree:
+NERDTree
 - Para abrir el árbol de archivos hay que pulsar espacio y n (esto es posible gracias a un shortcut)
 - Para navegar entre el árbol de archivos y los archivos debe hacerse con el control y la h o la l (los dos al mismo tiempo. Esto es gracias al plugin tmux)
 - NOTA IMPORTANTE: Para abrir los archivos en pantalla dividida hay que hacerlo con la s
+
+NERDCommenter
+- space + cc (comenta el texto seleccionado)
+- space + ci (descomenta el texto seleccionado)
 
 Buscar
 - /{term} (al buscar con la barra encontrará las coincidencias en el archivo)
