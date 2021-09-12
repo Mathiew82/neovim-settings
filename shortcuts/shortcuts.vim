@@ -9,6 +9,7 @@ nmap <Leader>; $a;<Esc>
 
 nmap <Leader>j :bprevious<CR>
 nmap <Leader>k :bnext<CR>
+nmap <Leader>d :bdelete<CR>
 
 nmap <Leader>nn :tabnew<CR>
 
