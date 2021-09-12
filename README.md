@@ -1,4 +1,4 @@
-# This is my neovim setup 😎🤟
+# This is my neovim setup 😎
 
 ### Plugins as IDE ⚙
 
