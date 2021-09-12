@@ -61,7 +61,6 @@ Abrir archivos :e
 NERDTree:
 - Para abrir el árbol de archivos hay que pulsar espacio y n (esto es posible gracias a un shortcut)
 - Para navegar entre el árbol de archivos y los archivos debe hacerse con el control y la h o la l (los dos al mismo tiempo. Esto es gracias al plugin tmux)
-- NOTA IMPORTANTE: Para abrir los archivos hay que hacerlo con la t para poder luego navegar por las pestañas una vez abiertas
 - NOTA IMPORTANTE: Para abrir los archivos en pantalla dividida hay que hacerlo con la s
 
 Buscar
