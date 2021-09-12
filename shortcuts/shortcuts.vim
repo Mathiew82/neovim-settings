@@ -12,3 +12,8 @@ nmap <Leader>j :tabprevious<CR>
 nmap <Leader>k :tabnext<CR>
 nmap <Leader>cc :tabclose<CR>
 nmap <Leader>nn :tabnew<CR>
+
+nmap <silent> gd <Plug>(coc-definition)
+nmap <silent> gy <Plug>(coc-type-definition)
+nmap <silent> gi <Plug>(coc-implementation)
+nmap <silent> gr <Plug>(coc-references)
