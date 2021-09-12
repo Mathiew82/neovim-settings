@@ -1,4 +1,4 @@
-# This is my neovim setup 😎 🤙
+# This is my neovim setup 😎🤟
 
 ### Plugins as IDE ⚙
 
@@ -14,7 +14,7 @@
 - https://github.com/preservim/nerdcommenter
 - https://github.com/Yggdroot/indentLine
 
-### Tests
+### Tests 🧪
 
 - https://github.com/vim-test/vim-test
 
