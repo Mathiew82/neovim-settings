@@ -7,6 +7,16 @@
 - https://github.com/neoclide/coc.nvim (tslint-plugin, tsserver, emmet, css, html, json, yank, prettier, stylelint, eslint, vetur, rust-analyzer, graphql, deno)
 - https://github.com/leafgarland/typescript-vim
 - https://github.com/posva/vim-vue
+- https://github.com/jiangmiao/auto-pairs
+- https://github.com/alvan/vim-closetag
+- https://github.com/editorconfig/editorconfig-vim
+- https://github.com/mhinz/vim-signify
+- https://github.com/preservim/nerdcommenter
+- https://github.com/Yggdroot/indentLine
+
+### Tests
+
+- https://github.com/vim-test/vim-test
 
 ### Manage files 📁
 
