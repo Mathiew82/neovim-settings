@@ -3,7 +3,7 @@
 ### Plugin manager ⚙
 - https://github.com/junegunn/vim-plug
 
-### Plugins to convert IDE ⚙
+### IDE plugins ⚙
 - https://github.com/mhinz/vim-startify
 - https://github.com/ianks/vim-tsx
 - https://github.com/neoclide/coc.nvim (tslint-plugin, tsserver, emmet, css, html, json, yank, prettier, stylelint, eslint, vetur, rust-analyzer, deno)
