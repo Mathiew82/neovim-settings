@@ -34,3 +34,6 @@
 ### Airline ✈
 - https://github.com/vim-airline/vim-airline
 - https://github.com/vim-airline/vim-airline-themes
+
+### Additional libraries 💊
+- https://github.com/ggreer/the_silver_searcher (For global searches)
