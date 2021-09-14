@@ -23,6 +23,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'junegunn/seoul256.vim'
   Plug 'morhetz/gruvbox'
   Plug 'ryanoasis/vim-devicons'
+  Plug 'sainnhe/sonokai'
   " Airline 
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'
