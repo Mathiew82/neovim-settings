@@ -1,4 +1,4 @@
-# This is my neovim setup 😎
+# neovim settings 😎
 
 ### Plugin manager ⚙
 
