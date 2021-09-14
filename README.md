@@ -35,8 +35,11 @@
 
 - https://github.com/junegunn/seoul256.vim
 - https://github.com/morhetz/gruvbox
-- https://github.com/ryanoasis/vim-devicons
 - https://github.com/sainnhe/sonokai
+
+### Appearance 💎
+
+- https://github.com/ryanoasis/vim-devicons
 
 ### Airline ✈
 
