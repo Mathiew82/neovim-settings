@@ -1,10 +1,10 @@
 set background=dark
 
-let g:sonokai_style = 'andromeda'
-let g:sonokai_enable_italic = 0
+let g:everforest_background = 'hard'
+let g:everforest_diagnostic_text_highlight = 1
 
-colorscheme sonokai
+colorscheme everforest
 
-highlight Normal ctermbg=none
-highlight NonText ctermbg=none
-highlight CursorLine ctermbg=17
+highlight Visual ctermbg=DarkGrey
+highlight Normal ctermbg=NONE
+highlight NonText ctermbg=NONE

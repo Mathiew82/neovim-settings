@@ -20,6 +20,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   " Navigate
   Plug 'christoomey/vim-tmux-navigator'
   " Themes
+  Plug 'sainnhe/everforest'
   Plug 'sainnhe/sonokai'
   Plug 'junegunn/seoul256.vim'
   Plug 'morhetz/gruvbox'

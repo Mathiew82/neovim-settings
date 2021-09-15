@@ -33,6 +33,7 @@
 
 ### Themes 💎
 
+- https://github.com/sainnhe/everforest
 - https://github.com/sainnhe/sonokai
 - https://github.com/junegunn/seoul256.vim
 - https://github.com/morhetz/gruvbox
