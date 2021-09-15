@@ -27,15 +27,15 @@
 - https://github.com/preservim/nerdtree
 - https://github.com/junegunn/fzf
 
-### Navigate in editor 🚀
+### Navigate 🚀
 
 - https://github.com/christoomey/vim-tmux-navigator
 
 ### Themes 💎
 
+- https://github.com/sainnhe/sonokai
 - https://github.com/junegunn/seoul256.vim
 - https://github.com/morhetz/gruvbox
-- https://github.com/sainnhe/sonokai
 
 ### Appearance 💎
 
