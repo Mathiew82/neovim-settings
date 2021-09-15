@@ -49,6 +49,7 @@ Copiar y Pegar
 - yy (copia toda la linea donde se encuentra el cursor)
 - p (pega el texto seleccionado debajo de la linea donde se encuentra el cursor)
 - P (pega el texto seleccionado encima de la linea donde se encuentra el cursor)
+- x (corta el texto seleccionado)
 - control + v / desplazarse hacia arriba o hacia abajo / shift + i / escribir lo deseado / esc (esto agrega el contenido en forma de multilinea)
 
 Abrir archivos :e
