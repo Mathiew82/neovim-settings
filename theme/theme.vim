@@ -1,9 +1,6 @@
 set background=dark
 
-let g:everforest_background = 'hard'
-let g:everforest_diagnostic_text_highlight = 1
-
-colorscheme everforest
+colorscheme seoul256
 
 highlight Visual ctermbg=DarkGrey
 highlight Normal ctermbg=NONE
