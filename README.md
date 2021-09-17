@@ -4,7 +4,7 @@
 
 # Neovim Settings
 
-Plugins and extensions of Neovim (https://neovim.io/)
+Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 </div>
 
