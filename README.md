@@ -25,6 +25,7 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 - https://github.com/mhinz/vim-signify
 - https://github.com/preservim/nerdcommenter
 - https://github.com/Yggdroot/indentLine
+- https://github.com/nvim-treesitter/nvim-treesitter
 
 ### Tests 🧪
 
