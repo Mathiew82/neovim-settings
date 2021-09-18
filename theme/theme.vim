@@ -5,3 +5,4 @@ colorscheme seoul256
 highlight Visual ctermbg=DarkGrey
 highlight Normal ctermbg=NONE
 highlight NonText ctermbg=NONE
+highlight Visual ctermbg=4

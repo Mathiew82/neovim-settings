@@ -1,4 +1,12 @@
-# neovim settings 😎
+<div align="center">
+
+<img src="https://neovim.io/logos/neovim-mark-flat.png" width=200 />
+
+# Neovim Settings
+
+Complete and ready-to-work configuration of Neovim (https://neovim.io/)
+
+</div>
 
 ### Plugin manager ⚙
 
