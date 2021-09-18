@@ -11,7 +11,9 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'mhinz/vim-signify'
   Plug 'preservim/nerdcommenter'
   Plug 'Yggdroot/indentLine'
-  " Tests  
+  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'nvim-treesitter/playground'
+  " Tests
   Plug 'vim-test/vim-test'
   " Manage files
   Plug 'preservim/nerdtree'
