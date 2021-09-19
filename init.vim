@@ -18,3 +18,4 @@ source $HOME/.config/nvim/config/nerdtree/nerdtree.vim
 source $HOME/.config/nvim/config/react/react.vim
 source $HOME/.config/nvim/config/startify/startify.vim
 source $HOME/.config/nvim/config/treesitter/treesitter.vim
+source $HOME/.config/nvim/config/nerdcommenter/nerdcommenter.vim
