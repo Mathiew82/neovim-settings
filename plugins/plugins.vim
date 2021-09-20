@@ -13,6 +13,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'Yggdroot/indentLine'
   Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
   Plug 'nvim-treesitter/playground'
+  Plug 'tveskag/nvim-blame-line'
   " Tests
   Plug 'vim-test/vim-test'
   " Manage files
