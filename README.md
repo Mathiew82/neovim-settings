@@ -26,6 +26,7 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 - https://github.com/preservim/nerdcommenter
 - https://github.com/Yggdroot/indentLine
 - https://github.com/nvim-treesitter/nvim-treesitter
+- https://github.com/tveskag/nvim-blame-line
 
 ### Tests 🧪
 
@@ -42,9 +43,9 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 ### Themes 💎
 
+- https://github.com/junegunn/seoul256.vim
 - https://github.com/sainnhe/everforest
 - https://github.com/sainnhe/sonokai
-- https://github.com/junegunn/seoul256.vim
 - https://github.com/morhetz/gruvbox
 
 ### Appearance 💎
