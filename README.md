@@ -8,6 +8,32 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 </div>
 
+### Instalation 🔧
+
+1. Download the project zip and unzip
+2. Add folder content to your nvim folder (**~/.config/nvim/**)
+3. It should look like this...
+   - nvim
+     - airline
+     - autoload
+     - commands
+     - ...
+4. Open neovim and run the **:PlugInstall** command (*It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed*)
+   - **Note:** Ignore errors when opening and continue, after installing the plugins they will be fixed
+5. When the installation is finished you must close neovim
+6. Open neovim again and enjoy your new settings!! 😎 🚀
+
+**Note:** Additionally you must install [this dependency](https://github.com/ggreer/the_silver_searcher) to perform global searches with the **:Ag term** command
+
+
+<div align="center">
+
+...
+  
+# Installed dependencies
+
+</div>
+
 ### Plugin manager ⚙
 
 - https://github.com/junegunn/vim-plug
