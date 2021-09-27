@@ -30,6 +30,21 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 ...
   
+# Screenshots
+
+</div>
+
+![Captura de pantalla 2021-09-27 a las 4 29 20](https://user-images.githubusercontent.com/22583657/134837115-a11b86ec-8b65-4809-89c5-67a9416fd8f0.png)
+
+![Captura de pantalla 2021-09-27 a las 4 36 36](https://user-images.githubusercontent.com/22583657/134837612-c164c551-1284-41e8-9ce1-e96648797305.png)
+
+![Captura de pantalla 2021-09-27 a las 4 37 07](https://user-images.githubusercontent.com/22583657/134837631-2cc86d0d-b96c-4a43-bed2-4106dba721b8.png)
+
+
+<div align="center">
+
+...
+  
 # Installed dependencies
 
 </div>
