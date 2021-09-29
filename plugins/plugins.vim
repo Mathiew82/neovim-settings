@@ -11,9 +11,10 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'mhinz/vim-signify'
   Plug 'preservim/nerdcommenter'
   Plug 'Yggdroot/indentLine'
-  Plug 'nvim-treesitter/nvim-treesitter', {'do': ':TSUpdate'}
+  Plug 'nvim-treesitter/nvim-treesitter', { 'do': ':TSUpdate' }
   Plug 'nvim-treesitter/playground'
   Plug 'tveskag/nvim-blame-line'
+  Plug 'monaqa/dial.nvim'
   " Tests
   Plug 'vim-test/vim-test'
   " Manage files
@@ -29,6 +30,7 @@ call plug#begin('~/.local/share/nvim/plugged')
   Plug 'morhetz/gruvbox'
   " Appearance
   Plug 'ryanoasis/vim-devicons'
+  Plug 'dstein64/nvim-scrollview', { 'branch': 'main' }
   " Airline 
   Plug 'vim-airline/vim-airline'
   Plug 'vim-airline/vim-airline-themes'

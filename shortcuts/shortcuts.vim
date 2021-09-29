@@ -13,7 +13,7 @@ nmap <Leader>d :bdelete<CR>
 
 nmap <Leader>nn :tabnew<CR>
 
-nmap <Leader>gb :ToggleBlameLine<CR>
+nmap <Leader>bg :ToggleBlameLine<CR>
 
 nmap <silent> gd <Plug>(coc-definition)
 nmap <silent> gy <Plug>(coc-type-definition)

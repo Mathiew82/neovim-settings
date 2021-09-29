@@ -1,1 +1,1 @@
-let g:NERDCustomDelimiters = { 'vue': { 'left': '/** ', 'right': '*/' } }
+let g:NERDCustomDelimiters = { 'vue': { 'left': '/** ', 'right': ' */' } }
