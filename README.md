@@ -47,7 +47,7 @@ mv neovim-settings nvim
 
 </div>
 
-### Plugin manager ⚙
+### Plugin manager 📦
 
 - https://github.com/junegunn/vim-plug
 
@@ -88,7 +88,7 @@ mv neovim-settings nvim
 - https://github.com/sainnhe/sonokai
 - https://github.com/morhetz/gruvbox
 
-### Appearance 💎
+### Appearance 🔎
 
 - https://github.com/ryanoasis/vim-devicons
 - https://github.com/dstein64/nvim-scrollview
