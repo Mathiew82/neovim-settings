@@ -10,18 +10,16 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 ### Instalation 🔧
 
-1. Download the project zip and unzip
-2. Add folder content to your nvim folder (**~/.config/nvim/**)
-3. It should look like this...
-   - nvim
-     - airline
-     - autoload
-     - commands
-     - ...
-4. Open neovim and run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
+```
+cd ~/.config
+git clone https://github.com/Mathiew82/neovim-settings.git
+mv neovim-settings nvim
+```
+
+1. Open neovim and run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
    - **Note:** Ignore errors when opening and continue, after installing the plugins they will be fixed
-5. When the installation is finished you must close neovim
-6. Open neovim again and enjoy your new settings!! 😎 🚀
+2. When the installation is finished you must close neovim
+3. Open neovim again and enjoy your new settings!! 😎 🚀
 
 **Note:** Additionally you must install [this dependency](https://github.com/ggreer/the_silver_searcher) to perform global searches with the **:Ag term** command
 
@@ -33,7 +31,9 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 </div>
 
-![Captura de pantalla 2021-09-27 a las 4 29 20](https://user-images.githubusercontent.com/22583657/134837115-a11b86ec-8b65-4809-89c5-67a9416fd8f0.png)
+![Captura de pantalla 2021-09-30 a las 23 11 19](https://user-images.githubusercontent.com/22583657/135530763-ccbf398a-fd12-408e-8041-1ad39bab40fb.png)
+
+![Captura de pantalla 2021-09-30 a las 23 08 16](https://user-images.githubusercontent.com/22583657/135530487-ef0bc321-d7b7-4974-94dc-31bf9fa0cd4d.png)
 
 ![Captura de pantalla 2021-09-27 a las 4 36 36](https://user-images.githubusercontent.com/22583657/134837612-c164c551-1284-41e8-9ce1-e96648797305.png)
 
