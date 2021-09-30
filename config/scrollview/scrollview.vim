@@ -1,0 +1,1 @@
+highlight ScrollView ctermbg=DarkGrey
