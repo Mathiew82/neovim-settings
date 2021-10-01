@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://neovim.io/logos/neovim-mark-flat.png" width=200 />
+<img src="https://user-images.githubusercontent.com/22583657/135684153-69b835b3-033f-4c78-9d67-034f618297af.png" style="width: 60%;" />
 
-# Neovim Settings
+# BasisVIM
 
-Complete and ready-to-work configuration of Neovim (https://neovim.io/)
+Neovim configured and ready to work (https://neovim.io/)
 
 </div>
 
@@ -12,8 +12,8 @@ Complete and ready-to-work configuration of Neovim (https://neovim.io/)
 
 ```
 cd ~/.config
-git clone https://github.com/Mathiew82/neovim-settings.git
-mv neovim-settings nvim
+git clone https://github.com/Mathiew82/basisvim.git
+mv basisvim nvim
 ```
 
 1. Open neovim and run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
