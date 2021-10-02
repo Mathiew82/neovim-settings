@@ -58,7 +58,7 @@ mv basisvim nvim
 
 - https://github.com/mhinz/vim-startify
 - https://github.com/ianks/vim-tsx
-- https://github.com/neoclide/coc.nvim (tslint-plugin, tsserver, emmet, css, html, json, yank, prettier, stylelint, eslint, vetur, rust-analyzer, deno)
+- https://github.com/neoclide/coc.nvim *[tslint-plugin, tsserver, emmet, css, html, json, yank, prettier, stylelint, eslint, vetur, rust-analyzer, deno]*
 - https://github.com/leafgarland/typescript-vim
 - https://github.com/posva/vim-vue
 - https://github.com/jiangmiao/auto-pairs
