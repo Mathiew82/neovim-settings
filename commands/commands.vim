@@ -1,1 +1,1 @@
-:command NT NERDTree
+:command InstallLanguages TSInstall c c_sharp comment css dockerfile dot go graphql html java javascript jsdoc json json5 julia kotlin lua perl php python ql regex ruby rust scss svelte tsx typescript vim vue yaml
