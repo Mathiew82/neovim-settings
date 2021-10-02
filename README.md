@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/22583657/135692413-6a306067-9288-49dc-b77a-675d96119c6d.png" style="width: 75%;" />
+<img src="https://user-images.githubusercontent.com/22583657/135715842-750fcd32-1eca-41bc-84ad-5fa872e19b12.png" style="width: 75%;" />
 
 # BasisVIM
 
