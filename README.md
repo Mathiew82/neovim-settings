@@ -14,9 +14,10 @@ Neovim configured and ready to work (https://neovim.io/)
 cd ~/.config
 git clone https://github.com/Mathiew82/basisvim.git
 mv basisvim nvim
+nvim
 ```
 
-1. Open neovim and run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
+1. Run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
    - **Note:** Ignore errors when opening and continue, after installing the plugins they will be fixed
 2. Launch the **:InstallLanguages** command to install the languages supported by treesitter
 3. When the installation is finished you must close neovim
