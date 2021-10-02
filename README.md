@@ -18,8 +18,9 @@ mv basisvim nvim
 
 1. Open neovim and run the **:PlugInstall** command (_It is required to have [vim-plug](https://github.com/junegunn/vim-plug) installed_)
    - **Note:** Ignore errors when opening and continue, after installing the plugins they will be fixed
-2. When the installation is finished you must close neovim
-3. Open neovim again and enjoy your new settings!! 😎 🚀
+2. Launch the **:InstallLanguages** command to install the languages supported by treesitter
+3. When the installation is finished you must close neovim
+4. Open neovim again and enjoy your new settings!! 😎 🚀
 
 **Note:** Additionally you must install [this dependency](https://github.com/ggreer/the_silver_searcher) to perform global searches with the **:Ag term** command
 
@@ -114,9 +115,12 @@ mv basisvim nvim
 
 To add new programming languages to color the code styles you must write the **:TSInstall** command followed by the name of the language or languages you want to add.
 
-Example = **:TSInstall php python**
+Example to install elixir and dart = **:TSInstall elixir dart**
 
 In [this link](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages) you can see the list of languages supported by treesitter
+
+These are the languages installed with the **:InstallLanguages** command:
+*[c, c_sharp, comment, css, dockerfile, dot, go, graphql, html, java, javascript, jsdoc, json, json5, julia, kotlin, lua, perl, php, python, ql, regex, ruby, rust, scss, svelte, tsx, typescript, vim, vue, yaml]*
 
 ---
 
