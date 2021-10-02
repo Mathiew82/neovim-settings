@@ -35,7 +35,7 @@ mv basisvim nvim
 
 ![Captura de pantalla 2021-09-30 a las 23 11 19](https://user-images.githubusercontent.com/22583657/135530763-ccbf398a-fd12-408e-8041-1ad39bab40fb.png)
 
-![Captura de pantalla 2021-10-01 a las 8 34 07](https://user-images.githubusercontent.com/22583657/135576096-c0802911-ab6c-4cf6-8eb4-ee67ace9f629.png)
+![Captura de pantalla 2021-10-02 a las 2 39 34](https://user-images.githubusercontent.com/22583657/135698523-20337d26-6dd3-4364-9d8a-8a6dc7099c14.png)
 
 ![Captura de pantalla 2021-09-27 a las 4 36 36](https://user-images.githubusercontent.com/22583657/134837612-c164c551-1284-41e8-9ce1-e96648797305.png)
 
