@@ -103,3 +103,21 @@ mv basisvim nvim
 ### Additional libraries 💊
 
 - https://github.com/ggreer/the_silver_searcher (For global searches)
+
+<div align="center">
+
+...
+
+# Configuration
+
+</div>
+
+To add new programming languages to color the code styles you must write the **:TSInstall** command followed by the name of the language or languages you want to add.
+
+Example = **:TSInstall php python**
+
+In [this link](https://github.com/nvim-treesitter/nvim-treesitter#supported-languages) you can see the list of languages supported by treesitter
+
+---
+
+To modify the **eslint configuration** you must edit the **coc-settings.json** file
