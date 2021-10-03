@@ -37,6 +37,8 @@ nvim
 
 ![Captura de pantalla 2021-09-30 a las 23 11 19](https://user-images.githubusercontent.com/22583657/135530763-ccbf398a-fd12-408e-8041-1ad39bab40fb.png)
 
+![Captura de pantalla 2021-10-03 a las 4 11 08](https://user-images.githubusercontent.com/22583657/135737032-45e06c3f-25ec-4ca5-9086-d5f09f23d022.png)
+
 ![Captura de pantalla 2021-10-02 a las 2 39 34](https://user-images.githubusercontent.com/22583657/135698523-20337d26-6dd3-4364-9d8a-8a6dc7099c14.png)
 
 ![Captura de pantalla 2021-09-27 a las 4 36 36](https://user-images.githubusercontent.com/22583657/134837612-c164c551-1284-41e8-9ce1-e96648797305.png)
