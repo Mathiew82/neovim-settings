@@ -1,5 +1,5 @@
 let mapleader = ' '
-nmap <Leader>n :NERDTree<CR>
+nmap <Leader>n :NERDTreeToggle<CR>
 nmap <Leader>fi :Files<CR>
 
 nmap <Leader>w :w<CR>
