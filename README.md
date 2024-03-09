@@ -8,6 +8,9 @@ Neovim configured and ready to work (https://neovim.io/)
 
 </div>
 
+> [!WARNING]
+> This configuration is deprecated. Use [💤 My Custom LazyVim](https://github.com/Mathiew82/lazyvim-config) instead
+
 ### Instalation 🔧
 
 ```
